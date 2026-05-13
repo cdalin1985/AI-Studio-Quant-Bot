@@ -1,0 +1,8 @@
+{
+  "name": "Quant Trading Bot",
+  "description": "A modular stock trading bot with market-data ingestion, leakage-safe feature pipelines, backtesting, risk controls, paper trading, and broker abstraction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
